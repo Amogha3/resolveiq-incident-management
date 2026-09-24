@@ -6,6 +6,11 @@ React · FastAPI · SQLite · HTTP monitoring · TF-IDF retrieval · Optional Ol
 
 ResolveIQ connects incident investigation with a demonstrable operational workflow: deliberately fail an isolated checkout service, detect the failure through real HTTP probes, investigate the captured logs, restore service health, and record a human-reviewed resolution.
 
+## Screenshot
+
+<img width="1884" height="902" alt="image" src="https://github.com/user-attachments/assets/deec3e83-3631-40e1-9f2c-a4eca8b997f1" />
+
+
 ## Quick start
 
 Extract the archive, open the `resolveiq` folder in VS Code, and run `start_windows.bat`. Open **http://127.0.0.1:8000** and create an administrator using the first-run setup code printed in the terminal. Python 3.11+ and initial internet access for package installation are required. A compiled React frontend is included.
