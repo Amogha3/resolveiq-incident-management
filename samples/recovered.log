@@ -1,0 +1,3 @@
+2026-09-24T09:15:01 INFO synthetic recovery scenario started
+2026-09-24T09:15:02 INFO database query completed duration_ms=21
+2026-09-24T09:15:02 INFO checkout completed status=200 request_id=demo-102
